@@ -1,0 +1,9 @@
+{
+  "name": "express-redis",
+  "version": "1.0.0",
+  "description": "Example express and redis cache integration",
+  "main": "index.js",
+  "repository": "git@github.com:juan-acl/Redis-express.git",
+  "author": "Juan Chuc",
+  "license": "MIT"
+}
